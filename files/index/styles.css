@@ -428,7 +428,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Century Normal', 'Century';
+  font-family:'华文仿宋';
   font-weight:400;
   font-style:normal;
   font-size:28px;
@@ -441,7 +441,7 @@
   top:139px;
   width:283px;
   height:98px;
-  font-family:'Century Normal', 'Century';
+  font-family:'华文仿宋';
   font-weight:400;
   font-style:normal;
   font-size:28px;
@@ -451,7 +451,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
+  top:-5px;
   width:283px;
   word-wrap:break-word;
   text-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
