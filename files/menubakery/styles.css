@@ -288,6 +288,7 @@
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
+  background-color:rgba(255, 255, 255, 1);
   background-image:none;
 }
 #u20_state1_content {
